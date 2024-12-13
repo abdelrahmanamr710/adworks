@@ -5250,11 +5250,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\abdelrahman\\Documents\\SWproject\\AdventureWorksApi\\AdventureWorksApi.csproj",
+      "projectUniqueName": "C:\\Users\\abdelrahman\\Documents\\SWproject\\adworks\\AdventureWorksApi.csproj",
       "projectName": "AdventureWorksApi",
-      "projectPath": "C:\\Users\\abdelrahman\\Documents\\SWproject\\AdventureWorksApi\\AdventureWorksApi.csproj",
+      "projectPath": "C:\\Users\\abdelrahman\\Documents\\SWproject\\adworks\\AdventureWorksApi.csproj",
       "packagesPath": "C:\\Users\\abdelrahman\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\abdelrahman\\Documents\\SWproject\\AdventureWorksApi\\obj\\",
+      "outputPath": "C:\\Users\\abdelrahman\\Documents\\SWproject\\adworks\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

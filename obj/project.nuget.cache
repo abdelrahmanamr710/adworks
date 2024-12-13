@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aythWb18hIY=",
+  "dgSpecHash": "PrE8SXmZzpE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\abdelrahman\\Documents\\SWproject\\AdventureWorksApi\\AdventureWorksApi.csproj",
+  "projectFilePath": "C:\\Users\\abdelrahman\\Documents\\SWproject\\adworks\\AdventureWorksApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\abdelrahman\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\abdelrahman\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
